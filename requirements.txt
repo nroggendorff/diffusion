@@ -1,0 +1,9 @@
+diffusers
+torch
+transformers
+accelerate
+safetensors
+opencv-python
+scikit-learn
+huggingface-hub
+tensorboard
