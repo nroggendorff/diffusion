@@ -4,6 +4,8 @@ transformers
 accelerate
 safetensors
 opencv-python
+datasets
+dataclasses
 scikit-learn
 huggingface-hub
 tensorboard
